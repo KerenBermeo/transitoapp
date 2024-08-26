@@ -1,0 +1,33 @@
+# Directorios y archivos de Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/target/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Dependencias descargadas por Maven
+.m2/
+
+# Archivos de Logs
+*.log
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de salida compilados
+*.class
+
+# Archivos generados por el compilador y el sistema
+*.war
+*.ear
+
+# Archivos y carpetas generados por el compilador
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración específicos de Git
+!.gitignore
